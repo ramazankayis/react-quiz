@@ -299,6 +299,11 @@ header h1 {
   margin: 2rem auto;
   padding-bottom: 2rem;
   border-bottom: 2px solid #594276;
+  word-wrap: break-word;
+  flex-wrap: wrap;
+}
+#summary h2 {
+  word-wrap: break-word;
 }
 
 #summary-stats p {
